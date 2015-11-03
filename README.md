@@ -26,4 +26,11 @@ This is a list of things that I find useful. You can expect to find small sectio
 My next project is to make a full-screen app that boots to the app on a raspberry pi 2 with an adafruit 3.5" 320-480 TFT (https://learn.adafruit.com/adafruit-pitft-3-dot-5-touch-screen-for-raspberry-pi) I am starting to look at pygame. 
 
 ### pygame tutorial 
-https://pygame.org/docs/tut/newbieguide.html
+* https://pygame.org/docs/tut/newbieguide.html -- introducing pygame 
+* http://blog.jacobean.net/?p=1016 -- weatherstation application
+* https://stackoverflow.com/questions/24147026/display-gui-on-raspeberry-without-startx -- complex answers
+* http://www.davidhunt.ie/piphone-a-raspberry-pi-based-smartphone/ PiPhone
+* 
+
+# Kivy 
+* https://www.youtube.com/watch?v=ZmteLworB4E youtube kivy crash course
