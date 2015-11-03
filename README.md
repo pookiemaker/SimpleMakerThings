@@ -11,7 +11,9 @@ http://www.instructables.com/id/Raspberry-Pi-Launch-Python-script-on-startup/
 * https://github.com/MobilityLab/TransitScreen/wiki/Raspberry-Pi
 * https://www.raspberrypi.org/forums/viewtopic.php?t=8298&p=210611
 * https://raspberrypi.stackexchange.com/questions/27572/how-to-auto-start-chromium-after-boot-on-the-raspberry-2-2015-01-31-debian-whee
-This is the one I used
+
+
+<p>This is the one I used
 * https://lokir.wordpress.com/2012/09/16/raspberry-pi-kiosk-mode-with-chromium/
 
 
