@@ -1,12 +1,12 @@
-# SimpleMakerThings
+## SimpleMakerThings
 
 Very Little code will be contained here. This is a collection of things I find useful
 
-# Raspberry Pi specific 
-# Run a python script at bootup
+### Raspberry Pi specific 
+### Run a python script at bootup
 http://www.instructables.com/id/Raspberry-Pi-Launch-Python-script-on-startup/
 
-# Run chromium in kiosk mode at bootup 
+### Run chromium in kiosk mode at bootup 
 * http://blogs.wcode.org/2013/09/howto-boot-your-raspberry-pi-into-a-fullscreen-browser-kiosk/
 * https://github.com/MobilityLab/TransitScreen/wiki/Raspberry-Pi
 * https://www.raspberrypi.org/forums/viewtopic.php?t=8298&p=210611
@@ -18,7 +18,7 @@ http://www.instructables.com/id/Raspberry-Pi-Launch-Python-script-on-startup/
 
 
 
-#  Useful Bits
+###  Useful Bits
 This is a list of things that I find useful. You can expect to find small sections for each of the areas. 
 
 
