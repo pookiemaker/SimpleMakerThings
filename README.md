@@ -30,6 +30,7 @@ My next project is to make a full-screen app that boots to the app on a raspberr
 * http://blog.jacobean.net/?p=1016 -- weatherstation application
 * https://stackoverflow.com/questions/24147026/display-gui-on-raspeberry-without-startx -- complex answers
 * http://www.davidhunt.ie/piphone-a-raspberry-pi-based-smartphone/ PiPhone
+
 #### Probably the most relevant
 * http://jeremyblythe.blogspot.com/2014/09/raspberry-pi-pygame-ui-basics.html
 
