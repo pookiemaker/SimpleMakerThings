@@ -1,5 +1,8 @@
 # SimpleMakerThings
 
-This is my first attempt at using github. This a collection of simple things that make my life building things easier. 
+Very Little code will be contained here. 
+
+#  Useful Bits
+This is a list of things that I find useful. You can expect to find small sections for each of the areas. 
 
 
