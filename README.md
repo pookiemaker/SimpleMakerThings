@@ -22,7 +22,8 @@ http://www.instructables.com/id/Raspberry-Pi-Launch-Python-script-on-startup/
 This is a list of things that I find useful. You can expect to find small sections for each of the areas. 
 
 
-# My next project is to make a full-screen app that boots to the app on a raspberry pi 2 with an adafruit 3.5" 320-480 TFT (https://learn.adafruit.com/adafruit-pitft-3-dot-5-touch-screen-for-raspberry-pi) I am starting to look at pygame. 
+## Full Screen App, Rpi2 touchscreen
+My next project is to make a full-screen app that boots to the app on a raspberry pi 2 with an adafruit 3.5" 320-480 TFT (https://learn.adafruit.com/adafruit-pitft-3-dot-5-touch-screen-for-raspberry-pi) I am starting to look at pygame. 
 
-## pygame tutorial 
+### pygame tutorial 
 https://pygame.org/docs/tut/newbieguide.html
