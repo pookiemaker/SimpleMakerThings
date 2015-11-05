@@ -34,5 +34,8 @@ My next project is to make a full-screen app that boots to the app on a raspberr
 #### Probably the most relevant
 * http://jeremyblythe.blogspot.com/2014/09/raspberry-pi-pygame-ui-basics.html
 
-# Kivy 
+## Kivy 
 * https://www.youtube.com/watch?v=ZmteLworB4E youtube kivy crash course
+
+##Processing 
+* http://cagewebdev.com/index.php/raspberry-pi-running-processing-on-your-raspi/ on a RaspPi
