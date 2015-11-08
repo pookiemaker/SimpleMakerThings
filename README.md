@@ -45,3 +45,13 @@ My next project is to make a full-screen app that boots to the app on a raspberr
 
 ## QR Codes
 * http://blog.matael.org/writing/python-and-qrcodes/ updated and working well on raspbian
+
+
+## GNU-radio 
+* Looks like Jessie is supported, but wheezy is not
+* http://www.rs-online.com/designspark/electronics/eng/blog/taking-the-raspberry-pi-2-for-a-test-drive-with-gnu-radio-2
+
+
+## Basic RaspPi info
+* Wheezy and Jessie support different installed sub systems. 
+* I managed to get Cirrus Logic Card operating on Wheezy, but it looks like I'll need Jessie to run GNUradio
