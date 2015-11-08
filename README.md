@@ -50,7 +50,7 @@ My next project is to make a full-screen app that boots to the app on a raspberr
 ## GNU-radio 
 * Looks like Jessie is supported, but wheezy is not
 * http://www.rs-online.com/designspark/electronics/eng/blog/taking-the-raspberry-pi-2-for-a-test-drive-with-gnu-radio-2
-
+* http://www.rtl-sdr.com/spektrum-new-rtl-sdr-spectrum-analyzer-software/
 
 ## Basic RaspPi info
 * Wheezy and Jessie support different installed sub systems. 
