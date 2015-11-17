@@ -59,3 +59,4 @@ My next project is to make a full-screen app that boots to the app on a raspberr
 
 ## Hardware Random Number Generator
 * http://scruss.com/blog/2013/06/07/well-that-was-unexpected-the-raspberry-pis-hardware-random-number-generator/
+* http://stackoverflow.com/questions/27305636/how-to-get-pycrypto-to-use-my-random-number-and-not-its-own-when-creating-an-rsa
