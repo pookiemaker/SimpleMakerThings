@@ -55,3 +55,7 @@ My next project is to make a full-screen app that boots to the app on a raspberr
 ## Basic RaspPi info
 * Wheezy and Jessie support different installed sub systems. 
 * I managed to get Cirrus Logic Card operating on Wheezy, but it looks like I'll need Jessie to run GNUradio
+
+
+## Hardware Random Number Generator
+* http://scruss.com/blog/2013/06/07/well-that-was-unexpected-the-raspberry-pis-hardware-random-number-generator/
