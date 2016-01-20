@@ -65,3 +65,6 @@ My next project is to make a full-screen app that boots to the app on a raspberr
 * 
 ## Good python tutorial
 * https://docs.python.org/2/tutorial/
+* 
+## Finite State Machines
+* http://python-3-patterns-idioms-test.readthedocs.org/en/latest/StateMachine.html
