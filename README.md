@@ -62,7 +62,8 @@ My next project is to make a full-screen app that boots to the app on a raspberr
 * http://stackoverflow.com/questions/27305636/how-to-get-pycrypto-to-use-my-random-number-and-not-its-own-when-creating-an-rsa
 * http://www.phy.duke.edu/~rgb/General/dieharder.php
 * http://vinitsworld.blogspot.com/2008/10/difference-between-devrandom-and.html
-* 
+ 
+
 ## Good python tutorial
 * https://docs.python.org/2/tutorial/
 
