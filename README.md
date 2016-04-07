@@ -70,3 +70,7 @@ My next project is to make a full-screen app that boots to the app on a raspberr
 
 ## Finite State Machines
 * http://python-3-patterns-idioms-test.readthedocs.org/en/latest/StateMachine.html
+
+## Logic Simulator
+https://github.com/reds-heig/logisim-evolution
+
