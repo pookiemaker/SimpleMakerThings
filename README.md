@@ -73,4 +73,7 @@ My next project is to make a full-screen app that boots to the app on a raspberr
 
 ## Logic Simulator
 https://github.com/reds-heig/logisim-evolution
+You will need to install this first. 
+apt-get install default-jdk
+
 
