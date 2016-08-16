@@ -78,5 +78,6 @@ apt-get install default-jdk
 
 ## python parallel processing
 * https://pymotw.com/2/multiprocessing/communication.html
+* http://blog.shenwei.me/python-multiprocessing-pool-difference-between-map-apply-map_async-apply_async/
 
 
