@@ -76,4 +76,7 @@ https://github.com/reds-heig/logisim-evolution
 You will need to install this first. 
 apt-get install default-jdk
 
+## python parallel processing
+* https://pymotw.com/2/multiprocessing/communication.html
+
 
