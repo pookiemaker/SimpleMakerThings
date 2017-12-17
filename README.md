@@ -39,7 +39,7 @@ My next project is to make a full-screen app that boots to the app on a raspberr
 ## Kivy 
 * https://www.youtube.com/watch?v=ZmteLworB4E youtube kivy crash course
 
-##Processing 
+## Processing 
 * http://cagewebdev.com/index.php/raspberry-pi-running-processing-on-your-raspi/ on a RaspPi
 
 
@@ -51,6 +51,7 @@ My next project is to make a full-screen app that boots to the app on a raspberr
 * Looks like Jessie is supported, but wheezy is not
 * http://www.rs-online.com/designspark/electronics/eng/blog/taking-the-raspberry-pi-2-for-a-test-drive-with-gnu-radio-2
 * http://www.rtl-sdr.com/spektrum-new-rtl-sdr-spectrum-analyzer-software/
+* https://www.nutaq.com/blog/gnu-radio-file-source-and-sink
 
 ## Basic RaspPi info
 * Wheezy and Jessie support different installed sub systems. 
