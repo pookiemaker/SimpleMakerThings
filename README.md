@@ -52,6 +52,7 @@ My next project is to make a full-screen app that boots to the app on a raspberr
 * http://www.rs-online.com/designspark/electronics/eng/blog/taking-the-raspberry-pi-2-for-a-test-drive-with-gnu-radio-2
 * http://www.rtl-sdr.com/spektrum-new-rtl-sdr-spectrum-analyzer-software/
 * https://www.nutaq.com/blog/gnu-radio-file-source-and-sink
+* http://www.trondeau.com/home/2012/12/15/metadata-file-format.html
 
 ## Basic RaspPi info
 * Wheezy and Jessie support different installed sub systems. 
