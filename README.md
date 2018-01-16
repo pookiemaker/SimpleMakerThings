@@ -89,4 +89,9 @@ apt-get install default-jdk
 * http://wd15.github.io/2013/04/08/configuring-sumatra-for-postgres - advanced things
 * http://sumatra.readthedocs.io/en/latest/exercises/worksheet.html  -- for simple cases
 
+## Dealing with large fixed files for experiments...
+* Sumatra wants you to check them into git/svn/etc...at every run
+* http://git-annex.branchable.com/walkthrough/ might be a work around. git-annex
+
+
 
