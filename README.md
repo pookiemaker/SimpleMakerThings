@@ -96,3 +96,6 @@ apt-get install default-jdk
 * https://stackoverflow.com/questions/39337586/how-do-git-lfs-and-git-annex-differ
 
 
+## other
+* https://github.com/chmduquesne/sharebox-fs -- dropbox like
+
