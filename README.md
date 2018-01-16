@@ -85,3 +85,8 @@ apt-get install default-jdk
 * http://cslocumwx.github.io/blog/2015/02/23/python-multiprocessing/
 
 
+## Bits on Sumatra for documentation
+* http://wd15.github.io/2013/04/08/configuring-sumatra-for-postgres - advanced things
+* http://sumatra.readthedocs.io/en/latest/exercises/worksheet.html  -- for simple cases
+
+
