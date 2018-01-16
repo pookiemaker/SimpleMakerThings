@@ -92,6 +92,6 @@ apt-get install default-jdk
 ## Dealing with large fixed files for experiments...
 * Sumatra wants you to check them into git/svn/etc...at every run
 * http://git-annex.branchable.com/walkthrough/ might be a work around. git-annex
-
+* https://workingconcept.com/blog/git-annex-vs-git-lfs more options
 
 
