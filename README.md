@@ -94,6 +94,7 @@ apt-get install default-jdk
 * http://git-annex.branchable.com/walkthrough/ might be a work around. git-annex
 * https://workingconcept.com/blog/git-annex-vs-git-lfs more options
 * https://stackoverflow.com/questions/39337586/how-do-git-lfs-and-git-annex-differ
+* https://www.perforce.com/blog/storing-large-binary-files-in-git-repositories
 
 
 ## other
