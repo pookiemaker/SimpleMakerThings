@@ -29,3 +29,7 @@ sudo apt-get update
 sudo apt-get install git-annex-standalone
 
 </code>
+* Then I need to experiment with the following
+http://git-annex.branchable.com/tips/largefiles/
+* Mostly to add the /Data directory for the large data sets
+* problem is that need to run multiple runs on the data, and have sumatra not complain about repository changing
